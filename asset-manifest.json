@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/inl6/static/css/main.b429fd06.css",
+    "main.js": "/inl6/static/js/main.a43d8f16.js",
+    "index.html": "/inl6/index.html",
+    "main.b429fd06.css.map": "/inl6/static/css/main.b429fd06.css.map",
+    "main.a43d8f16.js.map": "/inl6/static/js/main.a43d8f16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b429fd06.css",
+    "static/js/main.a43d8f16.js"
+  ]
+}
