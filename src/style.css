@@ -1,0 +1,30 @@
+body {
+    background-color: lightcyan;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.container {
+    margin-top: 10px;
+}
+
+div {
+    margin-bottom: 5px;
+}
+
+label {
+    padding-left: 1px;
+}
+
+input[type='text'],
+[type='number'] {
+    margin-left: 15px;
+    margin-right: 10px;
+    width: 75%;
+    border-radius: 8px;
+}
+
+button {
+    width: 90px;
+    float: right;
+}
